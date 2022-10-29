@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//petar012github.github.io/test/static/css/main.14e18c27.css",
+    "main.js": "//petar012github.github.io/test/static/js/main.b0c86ef8.js",
+    "index.html": "//petar012github.github.io/test/index.html",
+    "main.14e18c27.css.map": "//petar012github.github.io/test/static/css/main.14e18c27.css.map",
+    "main.b0c86ef8.js.map": "//petar012github.github.io/test/static/js/main.b0c86ef8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e18c27.css",
+    "static/js/main.b0c86ef8.js"
+  ]
+}
